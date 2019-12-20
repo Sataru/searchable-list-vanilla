@@ -1,0 +1,26 @@
+{
+  "name": "searchablelist",
+  "version": "0.0.1",
+  "description": "Searchable list as a vanilla web component",
+  "main": "src/searchableList.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sataru/searchable-list.git"
+  },
+  "keywords": [
+    "web-components",
+    "vanilla",
+    "js",
+    "list",
+    "searchable"
+  ],
+  "author": "Sataru <satarudev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sataru/searchable-list/issues"
+  },
+  "homepage": "https://github.com/Sataru/searchable-list#readme"
+}
