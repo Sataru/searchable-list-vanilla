@@ -20,25 +20,6 @@ Just create the list as it where a normal ul li list
   <li>Grapefruit</li>
 </searchable-list>
 ```
-## Demo
-<!--
-```
-<custom-element-demo>
-  <template>
-    <script src="src/searchableList.js"></script>
-    <link rel="import" href="dev/index.html">
-  </template>
-</custom-element-demo>
-```
--->
-```html
-<searchable-list>
-  <li>Apple</li>
-  <li>Orange</li>
-  <li>Pineaple</li>
-  <li>Grapefruit</li>
-</searchable-list>
-```
 
 ## License
 MIT
