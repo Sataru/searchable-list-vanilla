@@ -5,7 +5,7 @@ A Vanilla Web Component for creating searchable lists.
 
 ## Installation
 ```sh
-npm i searchableList
+npm i searchablelist
 ```
 Then import the `index.js` file at the root of the package.
 
