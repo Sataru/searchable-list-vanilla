@@ -50,7 +50,6 @@ class SearchableList extends HTMLElement {
   constructor() {
     super();
     
-    // Add a shadow DOM
     const shadowDOM = this.attachShadow({mode: 'open'});
     shadowDOM.appendChild(template.content.cloneNode(true));
     this.shadowDOM = shadowDOM;    
@@ -78,7 +77,7 @@ class SearchableList extends HTMLElement {
 
   filter() {
     const filterInput = this.shadowDOM.querySelector('input').value.toUpperCase();
-    const items = document.querySelectorAll('searchable-list li');
+    const items = this.querySelectorAll('searchable-list li');
 
     for (let i = 0; i < items.length; i++) {
       let txtValue = items[i].textContent || items[i].innerText;
