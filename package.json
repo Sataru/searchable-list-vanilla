@@ -1,6 +1,6 @@
 {
   "name": "searchablelist",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Searchable list as a vanilla web component",
   "main": "src/searchableList.js",
   "scripts": {
