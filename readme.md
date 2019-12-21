@@ -1,5 +1,5 @@
 # Searchable List Element
-[![Published on WebComponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/vanillawc/wc-bullet-chain)
+[![Published on WebComponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/searchablelist)
 
 A Vanilla Web Component for creating searchable lists.
 
